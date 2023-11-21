@@ -1,0 +1,23 @@
+.text-cl {
+    color: #0C1751;
+}
+
+.card-height {
+    height: 12rem;
+}
+
+
+.bg-cl {
+    background-color: #0C1751
+}
+
+.bg-cl:hover {
+    background-color: rgb(19, 36, 119);
+    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
+    cursor: pointer;
+}
+
+.rect {
+    height: 300px;
+    background-color: #0C1751
+}
